@@ -1,1 +1,1 @@
-# /Users/gmalbrand/Dev/Jenkins/jenkins-multibranch-project-test
+# Jenkins Multibranch Project Test
